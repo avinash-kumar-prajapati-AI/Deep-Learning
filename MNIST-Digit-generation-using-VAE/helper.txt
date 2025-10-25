@@ -1,0 +1,8 @@
+
+
+python cvae_mnist.py --train
+
+python cvae_mnist.py --generate 8
+
+-----------
+py .\numGen.py
